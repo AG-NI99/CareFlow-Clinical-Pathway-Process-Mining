@@ -20,3 +20,17 @@ Clinical Pathway Process Mining project using synthetic healthcare event data, P
 - Document the methodology, findings, limitations, and future improvements.
 
 **Data note:** This project uses simulated data for educational purposes. Its findings should not be interpreted as evidence of actual hospital performance.
+
+
+## Project Progress
+
+### Completed
+- Generated and processed a synthetic clinical event log.
+- Calculated key performance indicators (KPIs).
+- Summarized patient cases and pathway durations.
+- Analyzed transitions between clinical activities.
+- Created bar and pie charts to visualize results.
+
+### Next Steps
+- Develop an interactive dashboard using Power BI.
+- Prepare the final project report and presentation.
