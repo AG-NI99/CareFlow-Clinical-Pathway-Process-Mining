@@ -37,3 +37,6 @@ Clinical Pathway Process Mining project using synthetic healthcare event data, P
 
 
 **Today's Progress:** Reviewed the existing Python analysis and organized project results.
+
+
+**Today's Progress:** Went through the existing Python analysis, reviewed the KPI results and patient pathways, and checked the charts generated for the project.
