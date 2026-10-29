@@ -41,4 +41,4 @@ Clinical Pathway Process Mining project using synthetic healthcare event data, P
 
 **Today's Progress:** Went through the existing Python analysis, reviewed the KPI results and patient pathways, and checked the charts generated for the project.
 
-**Today's Progress:** Went through the KPI results, patient case summaries, pathway durations, activity transitions, and bar and pie charts generated from the Python analysis. Took a closer look at these outputs to better understand the findings so far.
+**Today's Progress:** Imported `CareFlow_Analysis_Results.xlsx` into Power BI, loaded all seven data sheets, created the Executive Overview page, and added three KPI cards for total patient visits, average pathway duration, and repeat triage percentage.
