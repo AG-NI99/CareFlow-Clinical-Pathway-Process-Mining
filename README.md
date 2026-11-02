@@ -48,3 +48,5 @@ Clinical Pathway Process Mining project using synthetic healthcare event data, P
 
 **Today's Progress:** Spent time working on the CareFlow dashboard in Power BI, using the imported Excel results and arranging the KPI data to make the clinical performance information easier to understand.
 
+
+**Today's Progress:** Continued working on the CareFlow bottleneck analysis in Power BI using `CareFlow_Analysis_Results.xlsx`. Looked at the number of cases and average time taken between activities, focusing on Doctor Consultation → Triage (40 cases), X-Ray → Triage (73 cases), and Doctor Consultation → X-Ray (335 cases) to understand where patients experience delays.
