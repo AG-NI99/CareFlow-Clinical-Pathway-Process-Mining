@@ -1,3 +1,6 @@
+
+# Work for week1 and week2
+
 # CareFlow-Clinical-Pathway-Process-Mining
 Clinical Pathway Process Mining project using synthetic healthcare event data, Python, and Google Colab.
 ## Development Progress
@@ -35,6 +38,7 @@ Clinical Pathway Process Mining project using synthetic healthcare event data, P
 - Develop an interactive dashboard using Power BI.
 - Prepare the final project report and presentation.
 
+# Week3 and week4
 
 **Today's Progress:** Reviewed the existing Python analysis and organized project results.
 
@@ -58,3 +62,5 @@ Clinical Pathway Process Mining project using synthetic healthcare event data, P
 
 
 **Today's Progress:** Added screenshots of all three Power BI dashboard pages—Executive Overview, Patient Pathways, and Bottleneck Analysis—to Slide 10 of the final presentation. Checked the layout and presentation of the dashboard visuals.
+
+**Today's Progress:** Uploaded all final CareFlow project deliverables to the GitHub repository, including the Python notebook, Excel analysis workbook, Power BI dashboard, PowerPoint presentation, and PDF report. Reviewed the README documentation and prepared it for final project status updates.
