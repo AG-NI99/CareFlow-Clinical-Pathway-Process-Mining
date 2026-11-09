@@ -13,7 +13,7 @@ Work:
 - Learned why average ER waiting time alone cannot explain the actual causes of delays.
 - Planned the process-mining workflow.
 
-- 
+
 **Today's Progress:** Analyzed patient activity sequences and generated patient-flow visualizations to understand different clinical pathways and identify repeated or unusual activity patterns.
   Work:
 - Examined patient activity sequences.
