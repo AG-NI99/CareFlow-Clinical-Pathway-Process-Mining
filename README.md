@@ -4,14 +4,25 @@
 # CareFlow-Clinical-Pathway-Process-Mining
 Clinical Pathway Process Mining project using synthetic healthcare event data, Python, and Google Colab.
 ## Development Progress
-
+**Today's Progress:** Started the CareFlow Clinical Pathway Process Mining project by understanding the problem statement, project objectives, and how process mining can help identify delays in hospital patient journey.
+Work:
+- Understood the CareFlow project requirements.
+- Identified the healthcare workflow problem.
+- Learned why average ER waiting time alone cannot explain the actual causes of delays.
+- Planned the process-mining workflow.
+**Today's Progress:** Analyzed patient activity sequences and generated patient-flow visualizations to understand different clinical pathways and identify repeated or unusual activity patterns.
+  Work:
+- Examined patient activity sequences.
+- Generated patient-flow visualizations.
+- Investigated how patients moved between clinical activities.
+- Identified variations in patient pathways.
 **Today's Progress:** Explored the structure of healthcare event logs and planned how patient activities and timestamps would be organized to represent realistic hospital journeys.
 What I learned:
 - What an event log is.
 - What a case ID represents.
 - How timestamps determine activity order.
 - What an activity trace means.
-**Today's Progress:** Reviewed patient activity sequences and transition patterns to better understand variations in clinical pathways.
+
 ### Completed
 - Created the synthetic healthcare event log.
 - Implemented initial data processing in Google Colab.
