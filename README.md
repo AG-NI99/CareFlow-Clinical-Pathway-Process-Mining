@@ -54,7 +54,11 @@ What I learned:
 
 
 **Today's Progress:** Imported `CareFlow_Analysis_Results.xlsx` into Power BI, loaded all seven data sheets, created the Executive Overview page, and added three KPI cards for total patient visits, average pathway duration, and repeat triage percentage.
-
+What I learned:
+- Power BI Desktop.
+- Importing Excel workbooks.
+- Working with tables and fields.
+- Preparing analytical data for dashboards.
 **Today's Progress:** Worked on the CareFlow dashboard in Power BI Desktop using `CareFlow_Analysis_Results.xlsx`, preparing the clinical pathway analysis data for KPI visualization and performance monitoring.
 
 **Today's Progress:** Spent time working on the CareFlow dashboard in Power BI, using the imported Excel results and arranging the KPI data to make the clinical performance information easier to understand.
