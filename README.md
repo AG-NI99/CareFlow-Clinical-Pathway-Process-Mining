@@ -4,6 +4,13 @@
 # CareFlow-Clinical-Pathway-Process-Mining
 Clinical Pathway Process Mining project using synthetic healthcare event data, Python, and Google Colab.
 ## Development Progress
+
+**Today's Progress:** Explored the structure of healthcare event logs and planned how patient activities and timestamps would be organized to represent realistic hospital journeys.
+What I learned:
+- What an event log is.
+- What a case ID represents.
+- How timestamps determine activity order.
+- What an activity trace means.
 **Today's Progress:** Reviewed patient activity sequences and transition patterns to better understand variations in clinical pathways.
 ### Completed
 - Created the synthetic healthcare event log.
