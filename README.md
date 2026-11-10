@@ -29,6 +29,16 @@ What I learned:
 - How timestamps determine activity order.
 - What an activity trace means.
 
+
+**Today's Progress:** Analyzed patient activity sequences and generated patient-flow visualizations to understand different clinical pathways and identify repeated or unusual activity patterns.
+
+Work:
+- Examined patient activity sequences.
+- Generated patient-flow visualizations.
+- Investigated how patients moved between clinical activities.
+- Identified variations in patient pathways.
+
+
 ### Completed
 - Created the synthetic healthcare event log.
 - Implemented initial data processing in Google Colab.
