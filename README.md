@@ -103,3 +103,14 @@ What I learned:
 
 **Today's Progress:** Uploaded all final CareFlow project deliverables to the GitHub repository, including the Python notebook, Excel analysis workbook, Power BI dashboard, PowerPoint presentation, and PDF report. Reviewed the README documentation and prepared it for final project status updates.
 
+## Week 3 & Week 4 – Project Progress Overview
+
+During Weeks 3 and 4, I focused on completing the data analysis, developing the Power BI dashboard, and preparing the final CareFlow project submission. I analyzed patient activity transitions, repeated activities, pathway patterns, and waiting-time bottlenecks using Python and PM4Py.
+
+I exported the analysis results into `CareFlow_Analysis_Results.xlsx`, containing seven sheets, and imported them into Power BI. I developed the Executive Overview dashboard with KPI cards showing 500 total patient visits, 38.80% repeat triage, average pathway duration, and conformance percentage. I also reviewed important bottleneck transitions, including X-Ray → Triage (73 cases), Doctor Consultation → Triage (40 cases), and Doctor Consultation → X-Ray (335 cases).
+
+After developing the dashboard, I reviewed the visuals, captured screenshots, and added them to the final PowerPoint presentation. I also prepared the PDF version, updated the GitHub README with the latest project progress, and organized the final project files for submission.
+
+Throughout this work, I gained practical experience in process mining, healthcare workflow analysis, bottleneck identification, Power BI dashboard development, data visualization, and project documentation. I also learned how to convert raw event-log data into meaningful insights that can help identify operational inefficiencies in healthcare processes.
+
+**Overall Outcome:** Completed an end-to-end Clinical Pathway Process Mining project using Python, PM4Py, Excel, and Power BI, followed by final documentation and project submission.
