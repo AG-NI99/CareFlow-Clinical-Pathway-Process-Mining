@@ -83,7 +83,10 @@ What I learned:
 - Importing Excel workbooks.
 - Working with tables and fields.
 - Preparing analytical data for dashboards.
+
+
 **Today's Progress:** Worked on the CareFlow dashboard in Power BI Desktop using `CareFlow_Analysis_Results.xlsx`, preparing the clinical pathway analysis data for KPI visualization and performance monitoring.
+
 
 **Today's Progress:** Spent time working on the CareFlow dashboard in Power BI, using the imported Excel results and arranging the KPI data to make the clinical performance information easier to understand.
 
@@ -93,12 +96,15 @@ What I learned:
 
 **Today's Progress:** Completed the CareFlow Power BI bottleneck analysis by creating a median vs. maximum elapsed-time chart, adding titles and data labels, sorting transitions by maximum time, and testing the transition slicer. Arranged the three dashboard charts without overlap, saved the report, and captured screenshots of the Executive Overview, Patient Pathways, and Bottleneck Analysis pages. Also started preparing the final report using the seven sheets in `CareFlow_Analysis_Results.xlsx`.
 
+
 **Today's Progress:** Continued working on the CareFlow project, reviewing the Power BI dashboard and organizing the analysis outputs for the final report and submission.
 
 
 **Today's Progress:** Added screenshots of all three Power BI dashboard pages—Executive Overview, Patient Pathways, and Bottleneck Analysis—to Slide 10 of the final presentation. Checked the layout and presentation of the dashboard visuals.
 
+
 **Today's Progress:** Uploaded all final CareFlow project deliverables to the GitHub repository, including the Python notebook, Excel analysis workbook, Power BI dashboard, PowerPoint presentation, and PDF report. Reviewed the README documentation and prepared it for final project status updates.
+
 
 ## Week 3 & Week 4 – Project Progress Overview
 
