@@ -30,13 +30,10 @@ What I learned:
 - What an activity trace means.
 
 
-**Today's Progress:** Analyzed patient activity sequences and generated patient-flow visualizations to understand different clinical pathways and identify repeated or unusual activity patterns.
+**Today's Progress:** Set up the Google Colab environment for CareFlow and prepared the required Python libraries for healthcare event-log processing and process-mining analysis and Created the synthetic healthcare event log for 500 patient visits, including hospital activities and timestamps to simulate patient movement through the clinical pathway.Worked on preparing and cleaning the synthetic healthcare event log, checking patient records, activity sequences, and timestamps before performing process-mining analysis.
 
-Work:
-- Examined patient activity sequences.
-- Generated patient-flow visualizations.
-- Investigated how patients moved between clinical activities.
-- Identified variations in patient pathways.
+
+**Today's Progress:** Analyzed patient activity sequences and generated patient-flow visualizations to understand different clinical pathways and identify repeated or unusual activity patterns and Worked on calculating key performance indicators and patient-level summaries to measure clinical pathway duration and understand overall workflow performance. Worked on calculating key performance indicators and patient-level summaries to measure clinical pathway duration and understand overall workflow performance.
 
 
 ### Completed
