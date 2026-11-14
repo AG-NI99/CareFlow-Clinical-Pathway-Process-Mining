@@ -43,6 +43,9 @@ Work:
 
 **Today's Progress:** Analyzed transitions between clinical activities, calculated how frequently patients moved between different stages, and reviewed the transition table to understand common and less frequent pathways. Worked on identifying clinical workflow bottlenecks by reviewing transition counts and elapsed times. Compared average, median, and maximum times to understand where delays occur in the patient journey and worked on process conformance analysis by checking patient activity sequences against the expected clinical workflow and reviewing deviations in the process.
 
+**Today's Progress:** Analyzed repeated activities and longer patient pathways to understand where patients experience additional steps and how these patterns affect the overall clinical process. Worked on visualizing the process-mining results through charts and graphs, making patient activity patterns, transition frequencies, and workflow performance easier to understand.
+
+
 ### Completed
 - Created the synthetic healthcare event log.
 - Implemented initial data processing in Google Colab.
