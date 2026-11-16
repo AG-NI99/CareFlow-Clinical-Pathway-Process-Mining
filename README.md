@@ -126,6 +126,6 @@ I exported the analysis results into `CareFlow_Analysis_Results.xlsx`, containin
 
 After developing the dashboard, I reviewed the visuals, captured screenshots, and added them to the final PowerPoint presentation. I also prepared the PDF version, updated the GitHub README with the latest project progress, and organized the final project files for submission.
 
-Throughout this work, I gained practical experience in process mining, healthcare workflow analysis, bottleneck identification, Power BI dashboard development, data visualization, and project documentation. I also learned how to convert raw event-log data into meaningful insights that can help identify operational inefficiencies in healthcare processes.
+Throughout this work, I gained practical experience in process mining, healthcare workflow analysis, bottleneck identification, Power BI dashboard development, data visualization, and project documentation. I also learned how to convert raw event-log data into meaningful insights that can help identify operational inefficiencies in healthcare processes.I didn't just create a dashboard; I followed the complete process of understanding a problem, preparing data, analyzing patient pathways, identifying potential bottlenecks, and communicating the findings through visualization.
 
 **Overall Outcome:** Completed an end-to-end Clinical Pathway Process Mining project using Python, PM4Py, Excel, and Power BI, followed by final documentation and project submission.
